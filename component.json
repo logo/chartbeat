@@ -1,16 +1,19 @@
 {
+  "logo": "Chartbeat",
   "name": "chartbeat",
-  "version": "0.0.1",
   "repo": "logo/chartbeat",
-  "images": [
-    "images/logo-monochromatic.svg",
-    "images/logo.svg"
-  ],
+  "description": "The Chartbeat logo.",
+  "version": "0.0.2",
+  "license": "MIT",
   "styles": [
     "index.css"
   ],
-  "development": {
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
     "logo/logo": "*"
-  },
-  "license": "MIT"
+  }
 }
